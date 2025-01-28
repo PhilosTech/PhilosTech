@@ -1,5 +1,5 @@
 # Welcome! 👋 I'm Pavlo Filonenko (PhilosTech)
-A Frontend Developer with 6+ years of experience specialising in React, TypeScript, and building high-performance web applications.
+A Frontend Developer with 7 years of experience specialising in React, TypeScript, and building high-performance web applications.
 
 # About Me
 💻 **Core Skills:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3  

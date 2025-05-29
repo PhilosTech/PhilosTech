@@ -43,5 +43,5 @@ I'm currently working full-time as a freelance Web Software Developer, combining
 
 - [LinkedIn](https://www.linkedin.com/in/pavlo-filonenko-65278820a/)  
 - [Upwork Profile](https://www.upwork.com/freelancers/~01429d4fb1b223f005)
-- [My portfolio] (philostech.github.io/portfoliopavlof/)
+- [My portfolio] (https://philostech.github.io/portfoliopavlof/)
 - Email: pavel.filonenko1@gmail.com
